@@ -1,5 +1,5 @@
 # ListaDuplamenteEncadeadaCliente
-Estrutura de Lista Duplamente Encadeada representada com uma telinha de cadastro de clientes em uma fila. 
+Estrutura de Lista Duplamente Encadeada representada com uma telinha de cadastro de clientes em uma lista. 
 Projeto feito para a Disciplina de Estrutura de Dados 3º período de Ciência da Computação.
 
 Março de 2020.
